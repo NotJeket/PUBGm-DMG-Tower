@@ -41,7 +41,7 @@ python TowerDMG.py
 
 **Flowchart:**
 
-![image](https://github.com/NotJeket/PUBGm-DMG-Tower/assets/37781149/413828a1-8ad1-454f-a619-69e4162bd510)
+![code2flow_Qqvuvr](https://github.com/NotJeket/PUBGm-DMG-Tower-V1/assets/37781149/41d741ce-289e-4720-abf7-c66242b01928)
 
 
 **License**
